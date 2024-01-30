@@ -1,0 +1,42 @@
+sign up test 1234
+this is test
+Rasht
+sign up test2 1234
+this is test2
+Khomam
+sign up test3 1234
+this is test3
+Astaneh
+sign up test4 1234
+this is test4
+Shaft
+sign up test5 1234
+this is test5
+Fuman
+sign up test6 1234
+this is test6
+Khomam
+sign in test 1234
+follow test2
+follow test3
+sign out
+sign in test2 1234
+follow test4
+follow test5
+follow test
+sign out
+sign in test3 1234
+follow test4
+follow test
+sign out
+sign in test 1234
+suggest
+unfollow test2
+suggest
+follow test2
+unfollow test3
+dsuggest
+follow test3
+sign out
+sign in admin admin
+scc

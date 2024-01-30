@@ -1,0 +1,13 @@
+sign up x x
+sign up y y
+sign in x x
+buy premium
+mkdir dir1
+mkdir dir2
+mkdir dir3
+cd \dir1
+mkdir dir4
+type nul file1
+cd \..
+cd root\
+type nul file2
