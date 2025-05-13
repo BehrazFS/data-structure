@@ -1,1 +1,1 @@
-5 projects of Data Structure class
+5 projects of Data Structure cource
